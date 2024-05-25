@@ -1,3 +1,4 @@
+<<<<<<< android
 {
 	"FileVersion": 3,
 	"EngineAssociation": "5.4",
@@ -12,4 +13,20 @@
 			]
 		}
 	]
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+>>>>>>> master
 }
